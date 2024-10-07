@@ -13,11 +13,6 @@ https://e-commerce-tawny-two.vercel.app/
 - Fully Responsive
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
 
 ## Run Locally
 
